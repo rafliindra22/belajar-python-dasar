@@ -60,7 +60,7 @@ print("x is y = ",z)
 
 # is not adalah object identity kebalikan dari is
 x = 5
-y = 5
+y = 56
 print("nilai x = ",x,", id = ",hex(id(x)))
 print("nilai x = ",y,", id = ",hex(id(y)))
 z = x is not y
